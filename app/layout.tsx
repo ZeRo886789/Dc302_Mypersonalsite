@@ -40,7 +40,7 @@ export default function RootLayout({
 
         <footer className="border-t border-stone-200">
           <p className="mx-auto max-w-3xl px-6 py-6 text-sm text-slate-600">
-            &copy; {new Date().getFullYear()} Kent Jhuros Manatad
+            &copy; 2026 Kent Jhuros Manatad
           </p>
         </footer>
       </body>
